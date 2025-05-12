@@ -1,6 +1,6 @@
 ---
 slug: /
-title: Welcome
+title: Welcome 
 ---
 
 # Build onchain dapps with MetaMask SDK
